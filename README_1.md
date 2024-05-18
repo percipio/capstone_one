@@ -158,7 +158,8 @@ What suggestions do you have for next steps?
 
 ### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
+- [Link to notebook 1](https://github.com/percipio/capstone_one/blob/main/data_exploration.ipynb)
+- [Link to notebook 2](https://github.com/percipio/capstone_one/blob/main/eda.ipynb)
+- [Link to notebook 3](https://github.com/percipio/capstone_one/blob/main/feature_engineering.ipynb)
 
 #### Contact and Further Information
